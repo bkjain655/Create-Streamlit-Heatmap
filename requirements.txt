@@ -1,0 +1,17 @@
+streamlit
+streamlit-folium[plotly] # For interactive maps with plotly support
+python-dateutil # For date manipulation and parsing
+pandas # For data analysis, handling of tabular data
+requests # For making HTTP requests to fetch COVID cases data
+folium # For creating geographical visualizations using Python libraries like matplotlib or Bokeh
+matplotlib # For plotting graphs in 2D
+bokeh # For interactive plots and dashboards
+pydantic[dotenv] # For validating input parameters from environment variables
+python-multipart # For handling multipart/formdata requests
+flask # For building web applications with Flask framework
+gunicorn # For running the application as a WSGI server
+geopandas # For working with geospatial data in Python
+pytest # For testing your code
+coverage[toml] # For measuring test coverage of your project
+black # For automatic formatting of Python source code
+isort # For sorting import statements to keep a consistent order
